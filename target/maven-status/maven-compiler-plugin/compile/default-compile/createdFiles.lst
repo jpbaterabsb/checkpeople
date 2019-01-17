@@ -1,0 +1,16 @@
+com\checkpeople\database\DBSimulator.class
+com\checkpeople\exception\IdAlreadyExistsException.class
+com\checkpeople\exception\DBSimulatorException.class
+com\checkpeople\util\JsonUtils$2.class
+com\checkpeople\exception\NotFoundException.class
+com\checkpeople\model\Developer.class
+com\checkpeople\util\JsonUtils.class
+com\checkpeople\route\WebRoute.class
+com\checkpeople\controller\DeveloperController.class
+com\checkpeople\dao\DAO.class
+com\checkpeople\Application.class
+com\checkpeople\controller\Controller.class
+com\checkpeople\util\JsonUtils$1.class
+com\checkpeople\model\ResponseMessage.class
+com\checkpeople\dao\DeveloperDAO.class
+com\checkpeople\model\Model.class

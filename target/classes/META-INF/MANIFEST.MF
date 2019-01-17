@@ -1,0 +1,28 @@
+Manifest-Version: 1.0
+Built-By: JoaoPaulo.Santos
+Class-Path: lib/spark-core-2.7.2.jar lib/slf4j-api-1.7.13.jar lib/jett
+ y-server-9.4.8.v20171121.jar lib/javax.servlet-api-3.1.0.jar lib/jett
+ y-http-9.4.8.v20171121.jar lib/jetty-util-9.4.8.v20171121.jar lib/jet
+ ty-io-9.4.8.v20171121.jar lib/jetty-webapp-9.4.8.v20171121.jar lib/je
+ tty-xml-9.4.8.v20171121.jar lib/jetty-servlet-9.4.8.v20171121.jar lib
+ /jetty-security-9.4.8.v20171121.jar lib/websocket-server-9.4.8.v20171
+ 121.jar lib/websocket-common-9.4.8.v20171121.jar lib/websocket-client
+ -9.4.8.v20171121.jar lib/jetty-client-9.4.8.v20171121.jar lib/websock
+ et-servlet-9.4.8.v20171121.jar lib/websocket-api-9.4.8.v20171121.jar 
+ lib/slf4j-simple-1.7.21.jar lib/gson-2.8.5.jar lib/spark-test-1.1.8.j
+ ar lib/http-java-native-client-1.0.4.jar lib/reflections-0.9.10.jar l
+ ib/guava-15.0.jar lib/javassist-3.19.0-GA.jar lib/annotations-2.0.1.j
+ ar lib/swagger-core-1.5.8.jar lib/commons-lang3-3.2.1.jar lib/jackson
+ -annotations-2.4.5.jar lib/jackson-databind-2.4.5.jar lib/jackson-cor
+ e-2.4.5.jar lib/jackson-datatype-joda-2.4.5.jar lib/joda-time-2.2.jar
+  lib/jackson-dataformat-yaml-2.4.5.jar lib/snakeyaml-1.12.jar lib/swa
+ gger-models-1.5.8.jar lib/swagger-annotations-1.5.8.jar lib/validatio
+ n-api-1.1.0.Final.jar lib/swagger-jaxrs-1.5.8.jar lib/jackson-datafor
+ mat-xml-2.4.5.jar lib/jackson-module-jaxb-annotations-2.4.5.jar lib/s
+ tax2-api-3.1.4.jar lib/jsr311-api-1.1.1.jar lib/jackson-jaxrs-json-pr
+ ovider-2.4.5.jar lib/jackson-jaxrs-base-2.4.5.jar lib/javax.ws.rs-api
+ -2.0.1.jar
+Build-Jdk: 1.8.0_191
+Created-By: Maven Integration for Eclipse
+Main-Class: com.checkpeople.Application
+
