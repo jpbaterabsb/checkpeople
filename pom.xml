@@ -38,6 +38,7 @@
 			<artifactId>spark-test</artifactId>
 			<version>1.1.8</version>
 		</dependency>
+	</dependencies>
 	<build>
 		<resources>
 			<resource>
@@ -156,7 +157,7 @@
 				<version>0.4.4</version>
 				<configuration>
 					<jdkVersion>1.8</jdkVersion>
-					<appName>checkpeople</appName>
+					<appName>calm-sands-37831</appName>
 					<processTypes>
 						<web>java -jar ./target/rest-api-0.0.1-SNAPSHOT.jar</web>
 					</processTypes>
