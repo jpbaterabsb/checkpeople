@@ -1,6 +1,6 @@
 # checkpeople - Simple Rest API
 
-The checkpeople is an example of simple Rest API. The project use Spark Framework to become easy implementation.
+The CheckPeople is an example of simple Rest API. The project use Spark Framework, because it is a simple and expressive Java web framework DSL built for rapid development. Sparks intention is to provide an alternative for Java developers that want to develop their web applications as expressive as possible with minimal boilerplate. Furthermore Spark is an expressive, lightweight and opinionated pure Java web framework that doesn’t get in your way, unlike in other web frameworks, you can structure your application as you want.
 
 Note: the url of application deployed ```https://calm-sands-37831.herokuapp.com/api```
 
