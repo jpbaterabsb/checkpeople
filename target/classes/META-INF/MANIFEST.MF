@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Built-By: JoaoPaulo.Santos
+Built-By: joaopaulooliveirasantos
 Class-Path: lib/spark-core-2.7.2.jar lib/slf4j-api-1.7.13.jar lib/jett
  y-server-9.4.8.v20171121.jar lib/javax.servlet-api-3.1.0.jar lib/jett
  y-http-9.4.8.v20171121.jar lib/jetty-util-9.4.8.v20171121.jar lib/jet
@@ -22,7 +22,7 @@ Class-Path: lib/spark-core-2.7.2.jar lib/slf4j-api-1.7.13.jar lib/jett
  tax2-api-3.1.4.jar lib/jsr311-api-1.1.1.jar lib/jackson-jaxrs-json-pr
  ovider-2.4.5.jar lib/jackson-jaxrs-base-2.4.5.jar lib/javax.ws.rs-api
  -2.0.1.jar
-Build-Jdk: 1.8.0_191
+Build-Jdk: 1.8.0_181
 Created-By: Maven Integration for Eclipse
 Main-Class: com.checkpeople.Application
 
