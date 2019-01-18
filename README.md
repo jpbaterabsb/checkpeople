@@ -31,7 +31,7 @@ java -jar rest-api-0.0.1-SNAPSHOT.jar
 
 ## How to use
 
-Navigate to:```http://localhost:8085```
+Navigate to:```http://localhost:4567```
 
 ![alt text](https://user-images.githubusercontent.com/31267814/51361782-44145a80-1ab8-11e9-94a5-fb6665691563.png)
 
