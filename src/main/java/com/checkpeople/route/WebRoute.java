@@ -12,7 +12,7 @@ import com.checkpeople.util.JsonUtils;
 
 public class WebRoute {
 
-	public static DeveloperController developerController = new DeveloperController(new DeveloperDAO());
+	private static final DeveloperController developerController = new DeveloperController(new DeveloperDAO());
 
 	public static void start() {
 		before((req, res) -> {
@@ -21,8 +21,10 @@ public class WebRoute {
 			res.header("Access-Control-Allow-Methods", "GET, POST, PUT, DELETE, OPTIONS");
 			res.header("Access-Control-Allow-Origin", "*");
 		});
-
+		
+		get("/",(req,res) -> "CheckPeople is working!");
 		path("/api", () -> {
+			get("",(req,res) -> "CheckPeople is working!");
 			get("/start", developerController.start, JsonUtils::toJson);
 			path("/developer", () -> {
 				get("", developerController.findAll, JsonUtils::toJson);
@@ -30,9 +32,11 @@ public class WebRoute {
 				post("/add", "application/json", developerController.add, JsonUtils::toJson);
 				put("/:id/update", developerController.update, JsonUtils::toJson);
 				delete("/:id/remove", developerController.delete, JsonUtils::toJson);
+			
 			});
 		});
 
+		
 		exception(Exception.class, (e, req, res) -> {
 
 			if (e instanceof DBSimulatorException) {
