@@ -2,6 +2,8 @@
 
 The checkpeople is an example of simple Rest API. The project use Spark Framework to become easy implementation.
 
+Note: the url of application deployed ```https://calm-sands-37831.herokuapp.com/api```
+
 ## Prerequisites
 
 * [JDK 1.8](https://www.oracle.com/technetwork/pt/java/javase/downloads/jdk8-downloads-2133151.html) 
