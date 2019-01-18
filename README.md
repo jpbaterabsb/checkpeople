@@ -9,6 +9,7 @@ Note: the url of application deployed ```https://calm-sands-37831.herokuapp.com/
 * [JDK 1.8](https://www.oracle.com/technetwork/pt/java/javase/downloads/jdk8-downloads-2133151.html) 
 * [Maven](https://maven.apache.org/download.cgi) 
 * [Postman](https://www.getpostman.com/downloads/) - to test api
+* [Postman Test](https://mega.nz/#!o1RWCY7C!pJdSLhFRmlYyAR6hsmS9HjAKkdlLHP_NlQb6V3acTDY) - all test scenario
 
 ## Instalation
 
